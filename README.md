@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Jelle Groot
-=======================================================================================================================================
+=======================================
 
 Cyber Security student at Amsterdam University of Applied Sciences
 -------------------------------------------------------------------
@@ -24,26 +24,3 @@ Cyber Security student at Amsterdam University of Applied Sciences
 <!-- <a href="https://app.hackthebox.com/profile/1472413" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://silofy.gallerycdn.vsassets.io/extensions/silofy/hackthebox/0.2.9/1629722910669/Microsoft.VisualStudio.Services.Icons.Default" /> <source media="(prefers-color-scheme: light)" srcset="https://silofy.gallerycdn.vsassets.io/extensions/silofy/hackthebox/0.2.9/1629722910669/Microsoft.VisualStudio.Services.Icons.Default" /> <img src="https://silofy.gallerycdn.vsassets.io/extensions/silofy/hackthebox/0.2.9/1629722910669/Microsoft.VisualStudio.Services.Icons.Default" width="32" height="32" /> </picture> </a> -->
 <!-- <a href="https://tryhackme.com/p/LangeManV1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.icon-icons.com/icons2/3915/PNG/512/tryhackme_logo_icon_249349.png" /> <source media="(prefers-color-scheme: light)" srcset="https://cdn.icon-icons.com/icons2/3915/PNG/512/tryhackme_logo_icon_249349.png" /> <img src="https://cdn.icon-icons.com/icons2/3915/PNG/512/tryhackme_logo_icon_249349.png" width="32" height="32" /> </picture> </a> </p> -->
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/twanterstappen"><img src="https://github-readme-stats.vercel.app/api?username=twanterstappen&show_icons=true&hide=contribs&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="twanterstappen's GitHub stats" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/twanterstappen/smp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=twanterstappen&repo=smp&title_color=84cc16&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-<!--
-**twanterstappen/twanterstappen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
